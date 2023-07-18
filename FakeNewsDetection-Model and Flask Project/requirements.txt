@@ -1,0 +1,8 @@
+scikit-learn~=1.2.2
+pandas~=1.5.3
+numpy
+Flask~=2.2.3
+newspaper
+requests~=2.31.0
+beautifulsoup4~=4.12.2
+APScheduler~=3.10.1
